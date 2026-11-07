@@ -1,0 +1,51 @@
+[submodule "raylib"]
+	path = raylib
+	url = git@github.com:raysan5/raylib
+[submodule "raygui"]
+	path = raygui
+	url = https://github.com/raysan5/raygui
+[submodule "rguilayout"]
+	path = rguilayout
+	url = https://github.com/raysan5/rguilayout
+[submodule "rguistyler"]
+	path = rguistyler
+	url = https://github.com/raysan5/rguistyler
+[submodule "rfxgen"]
+	path = rfxgen
+	url = https://github.com/raysan5/rfxgen
+[submodule "RGFW"]
+	path = RGFW
+	url = https://github.com/ColleagueRiley/RGFW
+[submodule "RFont"]
+	path = RFont
+	url = https://github.com/ColleagueRiley/RFont
+[submodule "RSGL"]
+	path = RSGL
+	url = https://github.com/ColleagueRiley/RSGL
+[submodule "RSGL_ui"]
+	path = RSGL_ui
+	url = https://github.com/ColleagueRiley/RSGL_ui
+[submodule "miniaudio"]
+	path = miniaudio
+	url = git@github.com:mackron/miniaudio.git
+[submodule "dr_libs"]
+	path = dr_libs
+	url = https://github.com/mackron/dr_libs
+[submodule "fs"]
+	path = fs
+	url = git@github.com:mackron/fs.git
+[submodule "glbind"]
+	path = glbind
+	url = https://github.com/mackron/glbind
+[submodule "stb"]
+	path = stb
+	url = git@github.com:nothings/stb.git
+[submodule "stb_image_resize"]
+	path = stb_image_resize
+	url = git@github.com:nothings/stb_image_resize.git
+[submodule "stb_sprintf"]
+	path = stb_sprintf
+	url = git@github.com:nothings/stb_sprintf.git
+[submodule "sqlite"]
+	path = sqlite
+	url = git@github.com:sqlite/sqlite.git
