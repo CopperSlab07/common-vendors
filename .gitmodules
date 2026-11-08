@@ -49,3 +49,6 @@
 [submodule "sqlite"]
 	path = sqlite
 	url = git@github.com:sqlite/sqlite.git
+[submodule "nob"]
+	path = nob
+	url = git@github.com:tsoding/nob.h
